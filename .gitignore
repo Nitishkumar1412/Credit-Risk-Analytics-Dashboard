@@ -1,0 +1,7 @@
+.venv/
+.venv_streamlit/
+__pycache__/
+.ipynb_checkpoints/
+.git_backup/
+.DS_Store
+*.pyc
