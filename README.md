@@ -1,7 +1,7 @@
-# 🏦 Credit Risk Analytics & Portfolio Optimization
+# 🏦 Credit Risk Analytics Dashboard
 
-> **Developed by Dhatri Mididuddi**  
-> **Co-Founder & AI Engineer @ Atlas AI Labs**
+> **Developed by Nitish Kumar**  
+
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.2.3-black?logo=pandas)
